@@ -1,0 +1,19 @@
+{
+    "global":{
+            "port":":2341"
+    },
+    "redirects":{
+        "locationsofinterest":{
+            "fullURL":"https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest",
+            "Description":"The NZ Ministry of Health's COVID-19: Contact tracing locations of interest page"
+        },
+        "bookmyvaccine":{
+            "fullURL":"https://bookmyvaccine.covid19.health.nz/",
+            "Description":"The NZ Ministry of Health's Book My Vaccine site"
+        }
+    },
+    "aliases":{
+        "loi":"locationsofinterest",
+        "bmv":"bookmyvaccine"
+    }
+}
